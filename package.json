@@ -1,0 +1,16 @@
+{
+  "name": "jimp-proj",
+  "version": "1.0.0",
+  "description": "\"Funcionalidade interessante para aplicação WEB principalmente para o fullstack, envolvendo tanto backend e frontend, é a geração dinamica de imagens! Vamos integrar isso no express.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "renatoDomingues",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "jimp": "^0.16.1"
+  }
+}
